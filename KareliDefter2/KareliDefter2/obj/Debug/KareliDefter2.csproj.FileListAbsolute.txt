@@ -1,0 +1,22 @@
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.exe.config
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.exe
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.pdb
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.AssemblyReference.cache
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.Form1.resources
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.Properties.Resources.resources
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.GenerateResource.cache
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.CoreCompileInputs.cache
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.exe
+C:\Users\sinan\source\repos\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.pdb
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.exe.config
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.exe
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\bin\Debug\KareliDefter2.pdb
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.Form1.resources
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.Properties.Resources.resources
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.GenerateResource.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.exe
+C:\Users\sinan\Desktop\Yazılım Yapımı\KareliDefter2\KareliDefter2\obj\Debug\KareliDefter2.pdb
